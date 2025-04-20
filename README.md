@@ -15,10 +15,6 @@ The **Tips and Feedback Application** is a Node.js and Express-based web applica
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Grading Requirements](#grading-requirements)
-- [Deliverables](#deliverables)
-- [License](#license)
-- [Questions](#questions)
 
 ---
 
