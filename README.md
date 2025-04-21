@@ -77,13 +77,6 @@ The **Tips and Feedback Application** is a Node.js and Express-based web applica
 
 ---
 
-## Screenshots
-
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-
----
-
 ## Technologies Used
 
 - Node.js
@@ -91,3 +84,5 @@ The **Tips and Feedback Application** is a Node.js and Express-based web applica
 - JavaScript
 - HTML
 - CSS
+
+## Video Walkthrough
