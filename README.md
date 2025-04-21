@@ -85,4 +85,3 @@ The **Tips and Feedback Application** is a Node.js and Express-based web applica
 - HTML
 - CSS
 
-## Video Walkthrough
